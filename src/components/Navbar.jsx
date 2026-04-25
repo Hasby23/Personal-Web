@@ -22,19 +22,19 @@ const Navbar = () => {
           <div>
             <a
               href='#'
-              className='text-sm px-4 py-2 rounded-full text-muted-foreground hover:text-foregroud hover:bg-primary-gradient1'
+              className='text-sm px-4 py-2 rounded-full text-secondary-text hover:text-primary-text hover:bg-primary-gradient1'
             >
               Home
             </a>
             <a
               href='#Project'
-              className='text-sm px-4 py-2 rounded-full text-muted-foreground hover:text-foregroud hover:bg-primary-gradient1'
+              className='text-sm px-4 py-2 rounded-full text-secondary-text hover:text-primary-text hover:bg-primary-gradient1'
             >
               Project
             </a>
             <a
               href='#Experience'
-              className='text-sm px-4 py-2 rounded-full text-muted-foreground hover:text-foregroud hover:bg-primary-gradient1'
+              className='text-sm px-4 py-2 rounded-full text-secondary-text hover:text-primary-text hover:bg-primary-gradient1'
             >
               Experience
             </a>
@@ -63,19 +63,19 @@ const Navbar = () => {
           <div className='mx-auto flex flex-col gap-4'>
             <a
               href='#'
-              className='text-lg px-4 py-2 rounded-full text-muted-foreground hover:text-foregroud hover:bg-primary-gradient1'
+              className='text-lg px-4 py-2 rounded-full text-secondary-text hover:text-primary-text hover:bg-primary-gradient1'
             >
               Home
             </a>
             <a
               href='#Project'
-              className='text-lg px-4 py-2 rounded-full text-muted-foreground hover:text-foregroud hover:bg-primary-gradient1'
+              className='text-lg px-4 py-2 rounded-full text-secondary-text hover:text-primary-text hover:bg-primary-gradient1'
             >
               Project
             </a>
             <a
               href='#Experience'
-              className='text-lg px-4 py-2 rounded-full text-muted-foreground hover:text-foregroud hover:bg-primary-gradient1'
+              className='text-lg px-4 py-2 rounded-full text-secondary-text hover:text-primary-text hover:bg-primary-gradient1'
             >
               Experience
             </a>
