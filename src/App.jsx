@@ -7,7 +7,7 @@ import Footer from './components/Footer.jsx';
 
 const App = () => {
   return (
-    <div className='min-h-screen overflow-hidden'>
+    <div className='min-h-screen overflow-hidden space-y-12'>
       <Navbar />
       <Hero />
       <Experience />
